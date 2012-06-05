@@ -3,7 +3,7 @@ I've spent quite a bit of time compiling what I find to be optimial to me and my
 Feel free to fork this and make it your own.
 
 <h3>Installation</h3>
-Copy and paste into /apache2/httpd.conf
+Copy and paste the contents of http.conf into /apache2/httpd.conf
 
 You can also copy and paste into .htaccess - however this is slower!
 
@@ -21,4 +21,4 @@ You can also copy and paste into .htaccess - however this is slower!
 
 <h3>Disclaimer</h3>
 - If you break Apache, then you may not have all the modules turn on.
-- This configuration works best for both my needs. Your needs may differ.
+- This configuration works best for my needs. Your needs may differ.
