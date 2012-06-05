@@ -20,5 +20,5 @@ You can also copy and paste into .htaccess - however this is slower.
 - Initial release
 
 <h3>Disclaimer</h3>
-<strong>- If you break Apache, then you may not have all the modules turn on.</strong>
-<strong>- This configuration works best for both my needs. Your needs may differ.</strong>
+- If you break Apache, then you may not have all the modules turn on.
+- This configuration works best for both my needs. Your needs may differ.
