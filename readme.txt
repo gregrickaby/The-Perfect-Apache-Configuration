@@ -5,7 +5,7 @@ Feel free to fork this and make it your own.
 <h3>Installation</h3>
 Copy and paste into /apache2/httpd.conf
 
-You can also copy and paste into .htaccess - however this is slower.
+You can also copy and paste into .htaccess - however this is slower!
 
 <h3>Credits</h3>
 - HTML5BoilerPlate: https://github.com/h5bp/html5-boilerplate/
