@@ -16,7 +16,10 @@ You can also copy and paste into .htaccess (however this is slower!)
 
 <h3>CHANGE LOG</h3>
 
-<strong>v1.0</strong>
+<strong>v1.1 - 2012.06.13</strong>
+- Moved CSS and JS from 1 day to 1 week
+
+<strong>v1.0 - 2012.06.05</strong>
 - Initial release
 
 <h3>Disclaimer</h3>
