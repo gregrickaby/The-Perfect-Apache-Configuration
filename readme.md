@@ -16,6 +16,9 @@ You can also copy and paste into .htaccess (however this is slower!)
 
 <h3>CHANGE LOG</h3>
 
+<strong>v1.3 - 2016.12.28</strong>
+- Syntax changes for Apache 2.4.4
+
 <strong>v1.2 - 2013.07.01</strong>
 - Added DefaultCharset
 - Added Header append Vary: Accept-Encoding
